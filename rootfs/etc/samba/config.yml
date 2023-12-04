@@ -1,0 +1,7 @@
+auth:
+  - user: admin
+    group: admin
+    uid: 1000
+    gid: 1000
+    password: admin
+#    password_file: /data/root_password
