@@ -1,3 +1,8 @@
+#### Thanks:
+
+https://github.com/vgist/dockerfiles/tree/master/samba-server
+
+
 #### Config:
 
 Default config in **/etc/samba** .
